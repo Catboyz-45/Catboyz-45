@@ -43,7 +43,7 @@
 | [**Nestly**](https://github.com/Catboyz-45/it-project) | Dormitory management platform | Next.js · TypeScript · PostgreSQL · Prisma |
 | [**Cost of Living Pipeline**](https://github.com/Catboyz-45/cost-of-living-pipeline) | Thai cost-of-living data pipeline: Airflow ETL, web scraping, ML forecast and dashboard | Python · Apache Airflow · ML |
 | [**Alcohol Monitor**](https://github.com/Catboyz-45/alcohol-monitor-app) ([firmware](https://github.com/Catboyz-45/alcohol-monitor-firmware)) | IoT alcohol measurement device with a companion mobile app | Flutter · ESP32 (C++) · Wi-Fi/MQTT |
-| [**ShabuQ**](https://github.com/Catboyz-45/shabuq-flutter) | Mobile app | Flutter · Dart |
+| [**ShabuQ**](https://github.com/Catboyz-45/shabuq-flutter) | Shabu restaurant queue booking app with coupons, real-time menus and role-based admin | Flutter · Firebase Auth · Cloud Firestore |
 | [**Web Cinema**](https://github.com/Catboyz-45/cinema-booking) · [live demo](https://catboyz-45.github.io/web_cinema/) | Online movie ticket booking with real-time seat selection | HTML · CSS · JavaScript · Firebase |
 | [**Movie Ticket Booking — System Analysis**](https://github.com/Catboyz-45/Online-Movie-Ticket-Booking-System) | Requirements, end-to-end workflows, Use Case / Class Diagram / DFD | System Analysis & Design |
 | [**Object Detection**](https://github.com/Catboyz-45/Object-Detection) | Object detection with YOLO | Python · YOLO |
